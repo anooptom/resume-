@@ -87,7 +87,7 @@
 \subsection{RAJAGIRI COLLEGE}
 
 \descript{BTECH in INFORMATION TECHNOLOGY}
-\location{Expected Dec 2024 \\ CGPA: 8.46/10}
+\location{Expected Dec 2024 \\ SGPA: 8.93/10}
 
 \sectionspace % Some whitespace after the section
 \sectionsep
@@ -181,42 +181,64 @@ Dart \textbullet{} PHP \textbullet{} NoSql \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
-\runsubsection{Facebook}
-\descript{| Software Engineer }
-\location{Jan 2015 - Present | New York, NY}
 \sectionsep
 
-\runsubsection{Coursera}
-\descript{| KPCB Fellow + Software Engineering Intern }
-\location{June 2014 – Sep 2014 | Mountain View, CA}
+\runsubsection{NesT}
+\descript{| Cyber Security Intern }
+\location{Oct 17 2022 - Present | Kochi , Aluva}
+\sectionsep
+
+\runsubsection{Ieee}
+\descript{| Member}
+\location{Nov 2022 – Present }
+
+\sectionsep
+
+
+\sectionsep
+
+\runsubsection{CSI}
+\descript{| Member }
+\location{Dec 2022 - Present | Kochi , Kakkand}
+\sectionsep
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Projects
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Projects}
+\sectionsep
+
+\runsubsection{Library Management System}
+\sectionsep
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item 52 out of 2500 applicants chosen to be a KPCB Fellow 2014.
-\item Led and shipped Yoda - the admin interface for the new Phoenix platform. 
-\item Full-stack developer - Wrote and reviewed code for JS using Backbone, Jade, Stylus and Require and Scala using Play
+\item GUI based application
+\item Users can Search, Borrow , Return Books 
+\item Librarian can Issue Books, View All Books and Student Details
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Google}
-\descript{| Software Engineering Intern }
-\location{May 2013 – Aug 2013 | Mountain View, CA}
+\runsubsection{Calculator}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Worked on the YouTube Captions team, in Javascript and Python to plan, to design and develop the full stack to add and edit Automatic Speech Recognition captions. In production.
-\item Created a backbone.js-like framework for the Captions editor.
+\item GUI based application
+\item Click on numbers and select operation to perform
+\item Text Field Displays the result
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Phabricator}
-\descript{| Open Source Contributor \& Team Leader}
-\location{Jan 2013 – May 2013 | Palo Alto, CA \& Ithaca, NY}
+
+\runsubsection{Ticket Booking Application}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Phabricator is used daily by Facebook, Dropbox, Quora, Asana and more.
-\item I created the Meme generator and more in PHP and Shell.
-\item Led a team from MIT, Cornell, IC London and UHelsinki for the project.
+\item Users Can Book ,View , Cancel ,Modify Tickets
 \end{tightemize}
 \sectionsep
 
 
+\sectionsep
 
 
 
@@ -229,14 +251,26 @@ Dart \textbullet{} PHP \textbullet{} NoSql \\
 \runsubsection{HackerRank}
 \descript{| Skill Assesment For Python}
 \location{Issued Apr 2022 }
+Certificate :// \href{https://www.hackerrank.com/certificates/e05c3a1bb8a9}{\bf HR} \\
 
+\sectionsep
+
+\runsubsection{Coursera}
+\descript{| Crash Course On Python}
+\location{Issued 24 Apr 2022 }
+Certificate :// \href{https://www.coursera.org/account/accomplishments/verify/XM7V7CVV96VB}{\bf CA} \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     AWARDS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Awards} 
+\section{Achievements} 
+\sectionsep
 \begin{tabular}{rll}
-2022	     & top 6/190  & ITrax Competition \\
+2022	     & top 6/190 \\  
+             & ITrax Competition \\
+             
+2020-22      & Participated in Events conducted by IEEE \\
+             & both national and international\\
 
 \end{tabular}
 \sectionsep
