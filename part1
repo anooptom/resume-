@@ -87,6 +87,7 @@ Database Management Systems \\
 Advanced Graph Theory \\
 Computer Organisation\\
 Design And Analysis Of Algorithms\\
+Network Programming \\
 
 
 \sectionspace % Some whitespace after the section
@@ -111,6 +112,7 @@ Git And GitHub
 \location{C}
 \location{Python}
 \location{Git}
+\location{Linux}
 \sectionspace % Some whitespace after the section
 \location{Intermediate:}
 HTML \textbullet{} C++ \textbullet{} MYSQL \\
