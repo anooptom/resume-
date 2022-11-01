@@ -116,7 +116,11 @@ Git And GitHub
 HTML \textbullet{} C++ \textbullet{} MYSQL \\
 \sectionspace % Some whitespace after the section
 \location{Familiar:}
-Dart \textbullet{} PHP \textbullet{} NoSql \\
+\location{Dart}
+\location{PHP}
+\location{NoSql}
+\location{CSS}
+\location{Django}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -143,7 +147,7 @@ Dart \textbullet{} PHP \textbullet{} NoSql \\
 
 \runsubsection{Ieee}
 \descript{| Member}
-\location{Nov 2022 – Present }
+\location{Nov 2020 – Present }
 
 \sectionsep
 
@@ -152,7 +156,7 @@ Dart \textbullet{} PHP \textbullet{} NoSql \\
 
 \runsubsection{CSI}
 \descript{| Member }
-\location{Dec 2022 - Present | Kochi , Kakkand}
+\location{Dec 2020 - Present | Kochi , Kakkand}
 \sectionsep
 
 
@@ -161,6 +165,18 @@ Dart \textbullet{} PHP \textbullet{} NoSql \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Projects}
+\sectionsep
+
+\runsubsection{Web Portal For Women Empowerment}
+\descript{ }
+\location{Ongoing (Oct 2022 - present)}
+\sectionsep
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Women can register problems,suggestions and this will be redirected to corresponding agency
+\item Update local area crime details & take action to monitor
+\item Upload details on different agency
+\end{tightemize}
 \sectionsep
 
 \runsubsection{Library Management System}
