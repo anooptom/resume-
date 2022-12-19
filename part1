@@ -88,6 +88,7 @@ Advanced Graph Theory \\
 Computer Organisation\\
 Design And Analysis Of Algorithms\\
 Network Programming \\
+Operating Systems
 
 
 \sectionspace % Some whitespace after the section
@@ -96,7 +97,8 @@ Network Programming \\
 \subsection{Extras}
 Cloud Computing \\
 Full Stack Development \\
-Git And GitHub 
+Git And GitHub \\
+IoT
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
